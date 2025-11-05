@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/Axione/ansible-vault/compare/v1.0.0...v1.1.0) (2025-11-05)
+
+### Features
+
+* allow additional environment variables ([#366](https://github.com/Axione/ansible-vault/issues/366)) ([da957e0](https://github.com/Axione/ansible-vault/commit/da957e0d3880f3ba87d0f62751c59b5e98ae10fa))
+
 ## 1.0.0 (2025-01-22)
 
 ### Features
